@@ -13,8 +13,8 @@ Setting method
 
 2. Define the command to execute the script in the alias.<br>
 As below<br>
-alias bell="/aaaaa/bbb/ccccccc/ddddd/shellscript/bell_mac.sh"
-alias notify="/aaaaa/bbb/ccccccc/ddddd/shellscript/notify_mac.sh"
+alias bell="/foo/bar/baz/bell_mac.sh"<br>
+alias notify="/foo/bar/baz/notify_mac.sh"
 
 The settings are now complete.
 
